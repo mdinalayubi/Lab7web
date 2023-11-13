@@ -36,7 +36,9 @@
 ##### Manajemen database: ```http://localhost/phpmyadmin```
 ##### Memulai PHP
 ##### Buat folder lab7_php_dasar pada root directory web server ```(c:\xampp\htdocs)```
+![gambar](php/folder.png)
 ##### Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: ```http://localhost/lab7_php_dasar/```
+![gambar](php/1.png)
 ##### PHP Dasar
 ##### Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
 ```python
@@ -55,7 +57,6 @@
 ##### Hasil Output
 ![gambar](php/2.png)
 ##### Kemudian untuk mengakses hasilnya melalui URL: ```http://localhost/lab7_php_dasar/php_dasar.php```
-![gambar](php/1.png)
 ##### Variable PHP
 ##### Menambahkan variable pada program.
 ```python
