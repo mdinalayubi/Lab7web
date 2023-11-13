@@ -306,8 +306,8 @@ $i++;
 </html>
 ```
 ##### Hasil Output
-![gambar](php/8.png)
 ![gambar](php/9.png)
+![gambar](php/10.png)
 ### Laporan Praktikum
 1. Buatlah repository baru dengan nama Lab7Web.
 2. Kerjakan semua latihan yang diberikan sesuai urutannya.
