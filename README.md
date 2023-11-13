@@ -52,6 +52,8 @@
         echo "Hello World";
     ?>
 ```
+##### Hasil Output
+![gambar](php/2.png)
 ##### Kemudian untuk mengakses hasilnya melalui URL: ```http://localhost/lab7_php_dasar/php_dasar.php```
 ![gambar](php/1.png)
 ##### Variable PHP
@@ -66,7 +68,7 @@
     ?>
 ```
 ##### Hasil Output
-![gambar](php/2.png)
+![gambar](php/3.png)
 ##### Predefine Variable $_GET
 ```pyhton
  <h1>Predefine Variable</h1>
@@ -77,9 +79,8 @@
 </html>
 ```
 ##### Hasil Output
-![gambar](php/3.png)
-##### Untuk mengaksesnya gunakan URL: ```http://localhost/lab7_php_dasar/php_dasar.php?nama=Muhammad Din Al Ayubi```
 ![gambar](php/4.png)
+##### Untuk mengaksesnya gunakan URL: ```http://localhost/lab7_php_dasar/php_dasar.php?nama=Muhammad Din Al Ayubi```
 ##### Membuat Form Input
 ```python
 <!DOCTYPE html>
