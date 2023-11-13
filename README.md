@@ -80,7 +80,7 @@
 ![gambar](php/3.png)
 ##### Untuk mengaksesnya gunakan URL: ```http://localhost/lab7_php_dasar/php_dasar.php?nama=Muhammad Din Al Ayubi```
 ![gambar](php/4.png)
-### Membuat Form Input
+##### Membuat Form Input
 ```python
 <!DOCTYPE html>
 <html lang="en">
@@ -101,7 +101,7 @@
 ```
 ##### Hasil Output
 ![gambar](php/5.png)
-### Operator
+##### Operator
 ```python
 <h2>Operator</h2>
 <?php
@@ -122,7 +122,7 @@ echo "Gaji yang dibawa pulang = Rp. $thp";
 ```
 ##### Hasil Output
 ![gambar](php/5.png)
-### Kondisi IF
+##### Kondisi IF
 ```python
 <h2>Kondisi IF</h2>
 <?php
@@ -138,7 +138,7 @@ if ($nama_hari == "Sunday") {
 ```
 ##### Hasil Output
 ![gambar](php/5.png)
-### Kondisi Switch
+##### Kondisi Switch
 ```python
 <h2>Kondisi Switch</h2>
 <?php
@@ -160,7 +160,7 @@ switch ($nama_hari) {
 ```
 ##### Hasil Output
 ![gambar](php/5.png)
-### Perulangan for
+##### Perulangan for
 ```python
 <h2>Perulangan for</h2>
 <?php
@@ -176,7 +176,7 @@ for ($i=10; $i>=1; $i--) {
 ```
 ##### Hasil Output
 ![gambar](php/6.png)
-### Perulangan while
+##### Perulangan while
 ```python
 <h2>Perulangan while</h2>
 <?php
@@ -190,7 +190,7 @@ while ($i<=10) {
 ```
 ##### Hasil Output
 ![gambar](php/7.png)
-### Perulangan dowhile
+##### Perulangan dowhile
 ```python
 <h2>Perulangan dowhile</h2>
 <?php
@@ -206,9 +206,9 @@ $i++;
 ```
 ##### Hasil Output
 ![gambar](php/8.png)
-### Pertanyaan dan Tugas
-### Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
-### Input
+## Pertanyaan dan Tugas
+##### Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
+##### Input
 ```python
 <!DOCTYPE html>
 <html lang="en">
@@ -305,7 +305,7 @@ $i++;
     </body>
 </html>
 ```
-### Hasil Output
+##### Hasil Output
 ![gambar](php/8.png)
 ![gambar](php/9.png)
 ### Laporan Praktikum
