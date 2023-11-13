@@ -65,6 +65,7 @@
     echo "Nama : $nama";
     ?>
 ```
+##### Hasil Output
 ![gambar](php/2.png)
 ##### Predefine Variable $_GET
 ```pyhton
@@ -75,6 +76,7 @@
 </body>
 </html>
 ```
+##### Hasil Output
 ![gambar](php/3.png)
 ##### Untuk mengaksesnya gunakan URL: ```http://localhost/lab7_php_dasar/php_dasar.php?nama=Muhammad Din Al Ayubi```
 ![gambar](php/4.png)
@@ -97,6 +99,7 @@
   echo "Selamat Datang " . $_GET ["nama"];
 ?>
 ```
+##### Hasil Output
 ![gambar](php/5.png)
 ### Operator
 ```python
@@ -117,6 +120,7 @@ echo "Gaji sebelum pajak = Rp. $gaji <br>";
 echo "Gaji yang dibawa pulang = Rp. $thp";
 ?>
 ```
+##### Hasil Output
 ![gambar](php/5.png)
 ### Kondisi IF
 ```python
@@ -132,6 +136,7 @@ if ($nama_hari == "Sunday") {
 }
 ?>
 ```
+##### Hasil Output
 ![gambar](php/5.png)
 ### Kondisi Switch
 ```python
@@ -153,6 +158,7 @@ switch ($nama_hari) {
     }
 ?>
 ```
+##### Hasil Output
 ![gambar](php/5.png)
 ### Perulangan for
 ```python
@@ -168,6 +174,7 @@ for ($i=10; $i>=1; $i--) {
 }
 ?>
 ```
+##### Hasil Output
 ![gambar](php/6.png)
 ### Perulangan while
 ```python
@@ -181,6 +188,7 @@ while ($i<=10) {
 }
 ?>
 ```
+##### Hasil Output
 ![gambar](php/7.png)
 ### Perulangan dowhile
 ```python
@@ -196,6 +204,7 @@ $i++;
 </body>
 </html>
 ```
+##### Hasil Output
 ![gambar](php/8.png)
 ### Pertanyaan dan Tugas
 ### Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
