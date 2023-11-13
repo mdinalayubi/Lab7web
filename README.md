@@ -101,8 +101,6 @@
   echo "Selamat Datang " . $_GET ["nama"];
 ?>
 ```
-##### Hasil Output
-![gambar](php/5.png)
 ##### Operator
 ```python
 <h2>Operator</h2>
@@ -122,8 +120,6 @@ echo "Gaji sebelum pajak = Rp. $gaji <br>";
 echo "Gaji yang dibawa pulang = Rp. $thp";
 ?>
 ```
-##### Hasil Output
-![gambar](php/5.png)
 ##### Kondisi IF
 ```python
 <h2>Kondisi IF</h2>
@@ -138,8 +134,6 @@ if ($nama_hari == "Sunday") {
 }
 ?>
 ```
-##### Hasil Output
-![gambar](php/5.png)
 ##### Kondisi Switch
 ```python
 <h2>Kondisi Switch</h2>
